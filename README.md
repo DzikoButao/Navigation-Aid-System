@@ -1,28 +1,15 @@
 <div align="center">
-  <br />
-    <a href="" target="_blank">
-      <img src="https://github.com/Stskdrv/cam-app/blob/main/assets/banner.png?raw=true" alt="Project Banner">
-    </a>
-  <br />
-
-  <div align="center">
-    <img align="center" src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react native" />
-    <img align="center" src="https://img.shields.io/badge/-Expo-JS?style=for-the-badge&logoColor=white&logo=expo&color=000000" alt="expo" />
-  </div>
-
-
-
  
 </div>
 
 ## 🚨Guide
 This repository contains the code corresponding to an tutorial available on this YouTube channel, <a href="https://www.youtube.com/@OneDevStan/videos"  target="_blank"><b>Code with Stan</b></a>. 
 
-If you prefer visual learning, this is the perfect resource for you. Follow this tutorial to learn how to build project like these step-by-step in a beginner-friendly manner!
+If you prefer visual learning, this is the perfect resource for you. Follow this tutorial to learn how to build this project in a beginner-friendly manner!
 
 ## <a name="introduction">🤖 Introduction</a>
 
-By developing this project, you will gain hands-on experience in using expo-camera module to build any photo creating mobile apps.
+This project is mobile based navigation aid app that gives step by step directional instructions to visually impaired users. It users react native machine learnin libraries to detect objects and give instructions on what next steps the user should take.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
