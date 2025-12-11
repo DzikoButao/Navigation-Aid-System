@@ -6,7 +6,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This project is mobile based navigation aid app that gives step by step directional instructions to visually impaired users. It users react native machine learning libraries to detect objects and give instructions on what next steps the user should take.
+This project is mobile based navigation aid app that gives step by step directional instructions to visually impaired users. It users react native machine learning libraries to detect objects and give instructions on the next steps the user should take depending on the obstacle detected.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
