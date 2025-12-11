@@ -10,11 +10,9 @@
     <img align="center" src="https://img.shields.io/badge/-Expo-JS?style=for-the-badge&logoColor=white&logo=expo&color=000000" alt="expo" />
   </div>
 
-  <h2 align="center">Expo Camera Screen Tutorial</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@OneDevStan/videos" target="_blank"><b>Code with Stan</b></a> YouTube. Join the family!
-    </div>
+
+ 
 </div>
 
 ## 🚨 Tutorial
@@ -45,12 +43,7 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
 
-```bash
-git clone git@github.com:stskdrv/cam-app.git
-cd cam-app
-```
 
 **Installation**
 
