@@ -3,13 +3,10 @@
 </div>
 
 ## 🚨Guide
-This repository contains the code corresponding to an tutorial available on this YouTube channel, <a href="https://www.youtube.com/@OneDevStan/videos"  target="_blank"><b>Code with Stan</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow this tutorial to learn how to build this project in a beginner-friendly manner!
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This project is mobile based navigation aid app that gives step by step directional instructions to visually impaired users. It users react native machine learnin libraries to detect objects and give instructions on what next steps the user should take.
+This project is mobile based navigation aid app that gives step by step directional instructions to visually impaired users. It users react native machine learning libraries to detect objects and give instructions on what next steps the user should take.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
