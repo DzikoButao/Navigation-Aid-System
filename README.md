@@ -15,9 +15,8 @@
  
 </div>
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an tutorial available on my YouTube channel, <a href="https://www.youtube.com/@OneDevStan/videos"  target="_blank"><b>Code with Stan</b></a>. 
+## 🚨Guide
+This repository contains the code corresponding to an tutorial available on this YouTube channel, <a href="https://www.youtube.com/@OneDevStan/videos"  target="_blank"><b>Code with Stan</b></a>. 
 
 If you prefer visual learning, this is the perfect resource for you. Follow this tutorial to learn how to build project like these step-by-step in a beginner-friendly manner!
 
